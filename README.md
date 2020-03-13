@@ -6,5 +6,7 @@ A complete hospital management solution.
 
 # features
 seperate patient and doctor login system.
+<br>provision of sign up
+<br>editing data
 <br>medical archive.
 <br>p2p chat system.
